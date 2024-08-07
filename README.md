@@ -1,0 +1,1 @@
+DevAtlas is a reference atlas of brain functional networks, based on 1391 typically developing youths, aged 8-17 years old. It is composed of 24 non-overlapping networks, based on resting-state fMRI from 3 large datasets (PING, PNC and HCP-D). 
